@@ -11,6 +11,7 @@ export interface IUser {
   updatedAt?: Date;
 }
 
+
 export interface IProduct {
   _id?: string | any;
   name: string;
